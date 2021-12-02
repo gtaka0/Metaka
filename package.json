@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "mocha --exit --recursive"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-environment": "^0.1.9",
+    "@truffle/hdwallet-provider": "^1.7.0"
+  }
+}
